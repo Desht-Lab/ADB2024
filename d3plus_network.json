@@ -1,0 +1,752 @@
+{
+  "meta": {
+    "nodes_total": 34,
+    "edges_raw": 71,
+    "edges_after": 71,
+    "isolates": 0,
+    "id_col": "id",
+    "src_col": "source",
+    "tgt_col": "target",
+    "x_col": "x",
+    "y_col": "y",
+    "label_col": "label",
+    "weight_included": true,
+    "color_col": "color",
+    "size_col": "size",
+    "pci_col": "pci",
+    "total_industry_prod_col": "total_industry_prod"
+  },
+  "nodes": [
+    {
+      "id": "c1",
+      "label": "Agriculture, hunting, forestry, and fishing",
+      "x": 294.0,
+      "y": 46.0,
+      "degree": 7,
+      "color": "#e5ba66",
+      "size": 26.44662196267953,
+      "total_industry_prod": 7827098.728365159,
+      "pci": -1.2655678851687513
+    },
+    {
+      "id": "c3",
+      "label": "Food, beverages, and tobacco",
+      "x": 201.0,
+      "y": 90.0,
+      "degree": 9,
+      "color": "#e5ba68",
+      "size": 27.390720370674096,
+      "total_industry_prod": 9006038.510725515,
+      "pci": -0.824659769990566
+    },
+    {
+      "id": "c18",
+      "label": "Construction",
+      "x": 330.0,
+      "y": -82.0,
+      "degree": 7,
+      "color": "#e5ba83",
+      "size": 32.7091989637429,
+      "total_industry_prod": 18314691.88780756,
+      "pci": -0.737171718119126
+    },
+    {
+      "id": "c11",
+      "label": "Other nonmetallic minerals",
+      "x": 444.0,
+      "y": 69.0,
+      "degree": 4,
+      "color": "#e5ba76",
+      "size": 20.52310352570876,
+      "total_industry_prod": 2838521.09548106,
+      "pci": -1.8833513694340769
+    },
+    {
+      "id": "c21",
+      "label": "Retail trade, except of motor vehicles and motorcycles; repair of household goods",
+      "x": 143.0,
+      "y": 43.0,
+      "degree": 8,
+      "color": "#376c8a",
+      "size": 26.61178297468468,
+      "total_industry_prod": 8024461.074948612,
+      "pci": -0.4164763672097888
+    },
+    {
+      "id": "c22",
+      "label": "Hotels and restaurants",
+      "x": 119.0,
+      "y": 161.0,
+      "degree": 5,
+      "color": "#376c8a",
+      "size": 24.635325923126867,
+      "total_industry_prod": 5893227.841872182,
+      "pci": -0.18315687007177736
+    },
+    {
+      "id": "c23",
+      "label": "Inland transport",
+      "x": 181.0,
+      "y": -92.0,
+      "degree": 6,
+      "color": "#376c8a",
+      "size": 24.25457950877186,
+      "total_industry_prod": 5537260.840606079,
+      "pci": -0.7999300920244472
+    },
+    {
+      "id": "c32",
+      "label": "Education",
+      "x": 98.0,
+      "y": -106.0,
+      "degree": 11,
+      "color": "#376c8a",
+      "size": 24.00532830105981,
+      "total_industry_prod": 5313131.709896067,
+      "pci": 0.09558158579062825
+    },
+    {
+      "id": "c10",
+      "label": "Rubber and plastics",
+      "x": -826.0,
+      "y": 40.0,
+      "degree": 3,
+      "color": "#e5ba75",
+      "size": 19.54091845275552,
+      "total_industry_prod": 2332920.1385071864,
+      "pci": -0.8445165191467567
+    },
+    {
+      "id": "c12",
+      "label": "Basic metals and fabricated metal",
+      "x": -683.0,
+      "y": 81.0,
+      "degree": 2,
+      "color": "#e5ba77",
+      "size": 27.265494273872424,
+      "total_industry_prod": 8842467.716796761,
+      "pci": -0.7770091575817503
+    },
+    {
+      "id": "c15",
+      "label": "Transport equipment",
+      "x": -726.0,
+      "y": -66.0,
+      "degree": 2,
+      "color": "#e5ba80",
+      "size": 26.062300821605213,
+      "total_industry_prod": 7381948.240852971,
+      "pci": -0.35946680658187863
+    },
+    {
+      "id": "c16",
+      "label": "Manufacturing, nec; recycling",
+      "x": -964.0,
+      "y": 87.0,
+      "degree": 1,
+      "color": "#e5ba81",
+      "size": 18.85660409767538,
+      "total_industry_prod": 2022897.6717028287,
+      "pci": -0.9808375614130052
+    },
+    {
+      "id": "c4",
+      "label": "Textiles and textile products",
+      "x": 606.0,
+      "y": 104.0,
+      "degree": 2,
+      "color": "#e5ba69",
+      "size": 19.9121233945499,
+      "total_industry_prod": 2515302.8465787275,
+      "pci": -2.186174420161041
+    },
+    {
+      "id": "c13",
+      "label": "Machinery, nec",
+      "x": -564.0,
+      "y": -41.0,
+      "degree": 4,
+      "color": "#e5ba78",
+      "size": 23.62983843158913,
+      "total_industry_prod": 4988419.765092497,
+      "pci": 1.0035264711646923
+    },
+    {
+      "id": "c7",
+      "label": "Pulp, paper, paper products, printing, and publishing",
+      "x": -338.0,
+      "y": -31.0,
+      "degree": 4,
+      "color": "#e5ba72",
+      "size": 19.49550722800454,
+      "total_industry_prod": 2311309.682784089,
+      "pci": 0.29907621354858
+    },
+    {
+      "id": "c14",
+      "label": "Electrical and optical equipment",
+      "x": -596.0,
+      "y": -195.0,
+      "degree": 1,
+      "color": "#e5ba79",
+      "size": 26.59345303420544,
+      "total_industry_prod": 8002375.220017324,
+      "pci": 0.4180873161727004
+    },
+    {
+      "id": "c17",
+      "label": "Electricity, gas, and water supply",
+      "x": -148.0,
+      "y": 237.0,
+      "degree": 1,
+      "color": "#e5ba82",
+      "size": 26.49819869920216,
+      "total_industry_prod": 7888335.840662703,
+      "pci": -0.21149474422031483
+    },
+    {
+      "id": "c19",
+      "label": "Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",
+      "x": -74.0,
+      "y": 63.0,
+      "degree": 14,
+      "color": "#376c8a",
+      "size": 18.687547731872485,
+      "total_industry_prod": 1951323.3544746237,
+      "pci": 0.4264434597396637
+    },
+    {
+      "id": "c27",
+      "label": "Post and telecommunications",
+      "x": 286.0,
+      "y": -260.0,
+      "degree": 3,
+      "color": "#376c8a",
+      "size": 22.41905641606579,
+      "total_industry_prod": 4041934.7849013815,
+      "pci": -0.23237157057569177
+    },
+    {
+      "id": "c26",
+      "label": "Other supporting and auxiliary transport activities; activities of travel agencies",
+      "x": -217.0,
+      "y": -40.0,
+      "degree": 10,
+      "color": "#376c8a",
+      "size": 20.929441949192427,
+      "total_industry_prod": 3070086.2565190447,
+      "pci": 0.973806233878456
+    },
+    {
+      "id": "c8",
+      "label": "Coke, refined petroleum, and nuclear fuel",
+      "x": -70.0,
+      "y": 331.0,
+      "degree": 3,
+      "color": "#e5ba73",
+      "size": 22.8397015577447,
+      "total_industry_prod": 4353932.3989200685,
+      "pci": 0.06754736076362244
+    },
+    {
+      "id": "c20",
+      "label": "Wholesale trade and commission trade, except of motor vehicles and motorcycles",
+      "x": -23.0,
+      "y": 36.0,
+      "degree": 5,
+      "color": "#376c8a",
+      "size": 28.685025373673724,
+      "total_industry_prod": 10832805.26531168,
+      "pci": 0.6310191822503526
+    },
+    {
+      "id": "c29",
+      "label": "Real estate activities",
+      "x": -139.0,
+      "y": -180.0,
+      "degree": 4,
+      "color": "#376c8a",
+      "size": 30.322753764245537,
+      "total_industry_prod": 13526783.518389923,
+      "pci": 1.2862700706619403
+    },
+    {
+      "id": "c33",
+      "label": "Health and social work",
+      "x": -243.0,
+      "y": -153.0,
+      "degree": 5,
+      "color": "#376c8a",
+      "size": 28.133527672048576,
+      "total_industry_prod": 10023438.96659154,
+      "pci": 1.5909960522699758
+    },
+    {
+      "id": "c34",
+      "label": "Other community, social, and personal services (creative industry)",
+      "x": -112.0,
+      "y": -138.0,
+      "degree": 8,
+      "color": "#376c8a",
+      "size": 25.564374581593466,
+      "total_industry_prod": 6833774.947104948,
+      "pci": 0.910922287196887
+    },
+    {
+      "id": "c6",
+      "label": "Wood and products of wood and cork",
+      "x": -239.0,
+      "y": 153.0,
+      "degree": 2,
+      "color": "#e5ba71",
+      "size": 15.897072580763188,
+      "total_industry_prod": 1021853.4392807122,
+      "pci": 0.11613701835528621
+    },
+    {
+      "id": "c2",
+      "label": "Mining and quarrying",
+      "x": 0.0,
+      "y": 476.0,
+      "degree": 1,
+      "color": "#e5ba67",
+      "size": 25.245592006688707,
+      "total_industry_prod": 6499234.691702349,
+      "pci": -0.42385815885023775
+    },
+    {
+      "id": "c24",
+      "label": "Water transport",
+      "x": -381.0,
+      "y": 91.0,
+      "degree": 1,
+      "color": "#376c8a",
+      "size": 16.485243589673455,
+      "total_industry_prod": 1181684.2788213575,
+      "pci": 0.9782448870649241
+    },
+    {
+      "id": "c25",
+      "label": "Air transport",
+      "x": 89.0,
+      "y": -301.0,
+      "degree": 1,
+      "color": "#376c8a",
+      "size": 16.766720189599084,
+      "total_industry_prod": 1264481.4116932838,
+      "pci": 0.23420087384553806
+    },
+    {
+      "id": "c30",
+      "label": "Renting of M&Eq and other business activities",
+      "x": -267.0,
+      "y": -275.0,
+      "degree": 4,
+      "color": "#376c8a",
+      "size": 34.68255426788792,
+      "total_industry_prod": 23150708.17975202,
+      "pci": 1.6586698338309045
+    },
+    {
+      "id": "c31",
+      "label": "Public administration and defense; compulsory social security",
+      "x": 351.0,
+      "y": -407.0,
+      "degree": 1,
+      "color": "#376c8a",
+      "size": 30.158671041406663,
+      "total_industry_prod": 13236366.48921918,
+      "pci": 0.7712112199518689
+    },
+    {
+      "id": "c28",
+      "label": "Financial intermediation",
+      "x": -315.0,
+      "y": -433.0,
+      "degree": 1,
+      "color": "#376c8a",
+      "size": 29.58820544525729,
+      "total_industry_prod": 12262936.65482859,
+      "pci": 1.4688259348158852
+    },
+    {
+      "id": "c5",
+      "label": "Leather, leather products, and footwear",
+      "x": 749.0,
+      "y": 112.0,
+      "degree": 1,
+      "color": "#e5ba70",
+      "size": 13.45542213982715,
+      "total_industry_prod": 524456.2831514971,
+      "pci": -2.2235312575896864
+    },
+    {
+      "id": "c9",
+      "label": "Chemicals and chemical products",
+      "x": -168.0,
+      "y": 460.0,
+      "degree": 1,
+      "color": "#e5ba74",
+      "size": 25.98017469287924,
+      "total_industry_prod": 7289340.719672882,
+      "pci": 0.6523581915913492
+    }
+  ],
+  "links": [
+    {
+      "source": "c1",
+      "target": "c11",
+      "weight": 1.0
+    },
+    {
+      "source": "c1",
+      "target": "c18",
+      "weight": 1.0
+    },
+    {
+      "source": "c1",
+      "target": "c21",
+      "weight": 1.0
+    },
+    {
+      "source": "c1",
+      "target": "c22",
+      "weight": 1.0
+    },
+    {
+      "source": "c1",
+      "target": "c23",
+      "weight": 1.0
+    },
+    {
+      "source": "c1",
+      "target": "c3",
+      "weight": 1.0
+    },
+    {
+      "source": "c1",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c10",
+      "target": "c12",
+      "weight": 1.0
+    },
+    {
+      "source": "c10",
+      "target": "c15",
+      "weight": 1.0
+    },
+    {
+      "source": "c10",
+      "target": "c16",
+      "weight": 1.0
+    },
+    {
+      "source": "c11",
+      "target": "c18",
+      "weight": 1.0
+    },
+    {
+      "source": "c11",
+      "target": "c3",
+      "weight": 1.0
+    },
+    {
+      "source": "c11",
+      "target": "c4",
+      "weight": 1.0
+    },
+    {
+      "source": "c12",
+      "target": "c13",
+      "weight": 1.0
+    },
+    {
+      "source": "c13",
+      "target": "c14",
+      "weight": 1.0
+    },
+    {
+      "source": "c13",
+      "target": "c15",
+      "weight": 1.0
+    },
+    {
+      "source": "c13",
+      "target": "c7",
+      "weight": 1.0
+    },
+    {
+      "source": "c17",
+      "target": "c19",
+      "weight": 1.0
+    },
+    {
+      "source": "c18",
+      "target": "c21",
+      "weight": 1.0
+    },
+    {
+      "source": "c18",
+      "target": "c23",
+      "weight": 1.0
+    },
+    {
+      "source": "c18",
+      "target": "c27",
+      "weight": 1.0
+    },
+    {
+      "source": "c18",
+      "target": "c3",
+      "weight": 1.0
+    },
+    {
+      "source": "c18",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c20",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c21",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c22",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c23",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c26",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c29",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c3",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c33",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c34",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c6",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c7",
+      "weight": 1.0
+    },
+    {
+      "source": "c19",
+      "target": "c8",
+      "weight": 1.0
+    },
+    {
+      "source": "c2",
+      "target": "c8",
+      "weight": 1.0
+    },
+    {
+      "source": "c20",
+      "target": "c21",
+      "weight": 1.0
+    },
+    {
+      "source": "c20",
+      "target": "c26",
+      "weight": 1.0
+    },
+    {
+      "source": "c20",
+      "target": "c3",
+      "weight": 1.0
+    },
+    {
+      "source": "c20",
+      "target": "c34",
+      "weight": 1.0
+    },
+    {
+      "source": "c21",
+      "target": "c22",
+      "weight": 1.0
+    },
+    {
+      "source": "c21",
+      "target": "c23",
+      "weight": 1.0
+    },
+    {
+      "source": "c21",
+      "target": "c3",
+      "weight": 1.0
+    },
+    {
+      "source": "c21",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c22",
+      "target": "c3",
+      "weight": 1.0
+    },
+    {
+      "source": "c22",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c23",
+      "target": "c3",
+      "weight": 1.0
+    },
+    {
+      "source": "c23",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c24",
+      "target": "c26",
+      "weight": 1.0
+    },
+    {
+      "source": "c25",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c26",
+      "target": "c29",
+      "weight": 1.0
+    },
+    {
+      "source": "c26",
+      "target": "c30",
+      "weight": 1.0
+    },
+    {
+      "source": "c26",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c26",
+      "target": "c33",
+      "weight": 1.0
+    },
+    {
+      "source": "c26",
+      "target": "c34",
+      "weight": 1.0
+    },
+    {
+      "source": "c26",
+      "target": "c6",
+      "weight": 1.0
+    },
+    {
+      "source": "c26",
+      "target": "c7",
+      "weight": 1.0
+    },
+    {
+      "source": "c27",
+      "target": "c31",
+      "weight": 1.0
+    },
+    {
+      "source": "c27",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c28",
+      "target": "c30",
+      "weight": 1.0
+    },
+    {
+      "source": "c29",
+      "target": "c33",
+      "weight": 1.0
+    },
+    {
+      "source": "c29",
+      "target": "c34",
+      "weight": 1.0
+    },
+    {
+      "source": "c3",
+      "target": "c32",
+      "weight": 1.0
+    },
+    {
+      "source": "c30",
+      "target": "c33",
+      "weight": 1.0
+    },
+    {
+      "source": "c30",
+      "target": "c34",
+      "weight": 1.0
+    },
+    {
+      "source": "c32",
+      "target": "c34",
+      "weight": 1.0
+    },
+    {
+      "source": "c33",
+      "target": "c34",
+      "weight": 1.0
+    },
+    {
+      "source": "c34",
+      "target": "c7",
+      "weight": 1.0
+    },
+    {
+      "source": "c4",
+      "target": "c5",
+      "weight": 1.0
+    },
+    {
+      "source": "c8",
+      "target": "c9",
+      "weight": 1.0
+    }
+  ]
+}

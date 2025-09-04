@@ -1,0 +1,2626 @@
+buyer,industry_buy,m_cp
+Argentina,c1,1
+Argentina,c10,1
+Argentina,c11,0
+Argentina,c12,0
+Argentina,c13,0
+Argentina,c14,0
+Argentina,c15,0
+Argentina,c16,0
+Argentina,c17,0
+Argentina,c18,0
+Argentina,c19,1
+Argentina,c2,1
+Argentina,c20,1
+Argentina,c21,1
+Argentina,c22,1
+Argentina,c23,1
+Argentina,c24,0
+Argentina,c25,0
+Argentina,c26,0
+Argentina,c27,1
+Argentina,c28,0
+Argentina,c29,0
+Argentina,c3,1
+Argentina,c30,0
+Argentina,c31,0
+Argentina,c32,1
+Argentina,c33,0
+Argentina,c34,1
+Argentina,c35,1
+Argentina,c4,0
+Argentina,c5,0
+Argentina,c6,0
+Argentina,c7,1
+Argentina,c8,1
+Argentina,c9,1
+Armenia,c1,1
+Armenia,c10,0
+Armenia,c11,0
+Armenia,c12,0
+Armenia,c13,0
+Armenia,c14,0
+Armenia,c15,0
+Armenia,c16,0
+Armenia,c17,0
+Armenia,c18,1
+Armenia,c19,0
+Armenia,c2,1
+Armenia,c20,1
+Armenia,c21,1
+Armenia,c22,1
+Armenia,c23,0
+Armenia,c24,0
+Armenia,c25,0
+Armenia,c26,1
+Armenia,c27,1
+Armenia,c28,1
+Armenia,c29,1
+Armenia,c3,1
+Armenia,c30,0
+Armenia,c31,0
+Armenia,c32,0
+Armenia,c33,1
+Armenia,c34,1
+Armenia,c35,0
+Armenia,c4,0
+Armenia,c5,0
+Armenia,c6,0
+Armenia,c7,0
+Armenia,c8,0
+Armenia,c9,0
+Australia,c1,0
+Australia,c10,0
+Australia,c11,0
+Australia,c12,0
+Australia,c13,0
+Australia,c14,0
+Australia,c15,0
+Australia,c16,0
+Australia,c17,0
+Australia,c18,1
+Australia,c19,0
+Australia,c2,1
+Australia,c20,0
+Australia,c21,1
+Australia,c22,0
+Australia,c23,0
+Australia,c24,0
+Australia,c25,1
+Australia,c26,1
+Australia,c27,1
+Australia,c28,1
+Australia,c29,1
+Australia,c3,0
+Australia,c30,1
+Australia,c31,0
+Australia,c32,1
+Australia,c33,1
+Australia,c34,0
+Australia,c35,1
+Australia,c4,0
+Australia,c5,0
+Australia,c6,1
+Australia,c7,0
+Australia,c8,0
+Australia,c9,0
+Austria,c1,0
+Austria,c10,0
+Austria,c11,0
+Austria,c12,1
+Austria,c13,1
+Austria,c14,0
+Austria,c15,0
+Austria,c16,1
+Austria,c17,1
+Austria,c18,0
+Austria,c19,1
+Austria,c2,0
+Austria,c20,0
+Austria,c21,0
+Austria,c22,1
+Austria,c23,0
+Austria,c24,0
+Austria,c25,1
+Austria,c26,1
+Austria,c27,0
+Austria,c28,0
+Austria,c29,1
+Austria,c3,0
+Austria,c30,1
+Austria,c31,0
+Austria,c32,1
+Austria,c33,1
+Austria,c34,1
+Austria,c35,0
+Austria,c4,0
+Austria,c5,0
+Austria,c6,1
+Austria,c7,1
+Austria,c8,0
+Austria,c9,0
+Bangladesh,c1,1
+Bangladesh,c10,1
+Bangladesh,c11,1
+Bangladesh,c12,0
+Bangladesh,c13,0
+Bangladesh,c14,0
+Bangladesh,c15,0
+Bangladesh,c16,1
+Bangladesh,c17,0
+Bangladesh,c18,1
+Bangladesh,c19,1
+Bangladesh,c2,0
+Bangladesh,c20,0
+Bangladesh,c21,1
+Bangladesh,c22,1
+Bangladesh,c23,1
+Bangladesh,c24,0
+Bangladesh,c25,0
+Bangladesh,c26,0
+Bangladesh,c27,0
+Bangladesh,c28,0
+Bangladesh,c29,0
+Bangladesh,c3,1
+Bangladesh,c30,0
+Bangladesh,c31,0
+Bangladesh,c32,1
+Bangladesh,c33,0
+Bangladesh,c34,1
+Bangladesh,c35,0
+Bangladesh,c4,1
+Bangladesh,c5,1
+Bangladesh,c6,0
+Bangladesh,c7,0
+Bangladesh,c8,0
+Bangladesh,c9,0
+Belgium,c1,0
+Belgium,c10,0
+Belgium,c11,0
+Belgium,c12,0
+Belgium,c13,0
+Belgium,c14,0
+Belgium,c15,0
+Belgium,c16,0
+Belgium,c17,0
+Belgium,c18,1
+Belgium,c19,1
+Belgium,c2,0
+Belgium,c20,1
+Belgium,c21,0
+Belgium,c22,0
+Belgium,c23,0
+Belgium,c24,0
+Belgium,c25,0
+Belgium,c26,1
+Belgium,c27,0
+Belgium,c28,1
+Belgium,c29,0
+Belgium,c3,1
+Belgium,c30,1
+Belgium,c31,0
+Belgium,c32,1
+Belgium,c33,1
+Belgium,c34,1
+Belgium,c35,0
+Belgium,c4,0
+Belgium,c5,0
+Belgium,c6,0
+Belgium,c7,0
+Belgium,c8,1
+Belgium,c9,1
+Bulgaria,c1,0
+Bulgaria,c10,1
+Bulgaria,c11,1
+Bulgaria,c12,1
+Bulgaria,c13,0
+Bulgaria,c14,0
+Bulgaria,c15,0
+Bulgaria,c16,1
+Bulgaria,c17,1
+Bulgaria,c18,0
+Bulgaria,c19,1
+Bulgaria,c2,0
+Bulgaria,c20,1
+Bulgaria,c21,1
+Bulgaria,c22,0
+Bulgaria,c23,1
+Bulgaria,c24,0
+Bulgaria,c25,0
+Bulgaria,c26,1
+Bulgaria,c27,1
+Bulgaria,c28,0
+Bulgaria,c29,0
+Bulgaria,c3,1
+Bulgaria,c30,1
+Bulgaria,c31,0
+Bulgaria,c32,1
+Bulgaria,c33,0
+Bulgaria,c34,1
+Bulgaria,c35,0
+Bulgaria,c4,0
+Bulgaria,c5,0
+Bulgaria,c6,0
+Bulgaria,c7,0
+Bulgaria,c8,1
+Bulgaria,c9,0
+Bhutan,c1,1
+Bhutan,c10,0
+Bhutan,c11,1
+Bhutan,c12,0
+Bhutan,c13,0
+Bhutan,c14,0
+Bhutan,c15,0
+Bhutan,c16,0
+Bhutan,c17,1
+Bhutan,c18,1
+Bhutan,c19,0
+Bhutan,c2,1
+Bhutan,c20,0
+Bhutan,c21,1
+Bhutan,c22,0
+Bhutan,c23,1
+Bhutan,c24,0
+Bhutan,c25,1
+Bhutan,c26,0
+Bhutan,c27,1
+Bhutan,c28,0
+Bhutan,c29,0
+Bhutan,c3,0
+Bhutan,c30,0
+Bhutan,c31,1
+Bhutan,c32,1
+Bhutan,c33,0
+Bhutan,c34,0
+Bhutan,c35,0
+Bhutan,c4,0
+Bhutan,c5,0
+Bhutan,c6,0
+Bhutan,c7,0
+Bhutan,c8,0
+Bhutan,c9,0
+Brazil,c1,1
+Brazil,c10,1
+Brazil,c11,0
+Brazil,c12,0
+Brazil,c13,0
+Brazil,c14,0
+Brazil,c15,0
+Brazil,c16,1
+Brazil,c17,0
+Brazil,c18,0
+Brazil,c19,1
+Brazil,c2,1
+Brazil,c20,0
+Brazil,c21,1
+Brazil,c22,1
+Brazil,c23,1
+Brazil,c24,0
+Brazil,c25,0
+Brazil,c26,0
+Brazil,c27,1
+Brazil,c28,0
+Brazil,c29,0
+Brazil,c3,1
+Brazil,c30,1
+Brazil,c31,0
+Brazil,c32,1
+Brazil,c33,0
+Brazil,c34,0
+Brazil,c35,1
+Brazil,c4,1
+Brazil,c5,1
+Brazil,c6,0
+Brazil,c7,1
+Brazil,c8,1
+Brazil,c9,1
+Brunei Darussalam,c1,0
+Brunei Darussalam,c10,0
+Brunei Darussalam,c11,0
+Brunei Darussalam,c12,0
+Brunei Darussalam,c13,0
+Brunei Darussalam,c14,0
+Brunei Darussalam,c15,0
+Brunei Darussalam,c16,0
+Brunei Darussalam,c17,0
+Brunei Darussalam,c18,0
+Brunei Darussalam,c19,0
+Brunei Darussalam,c2,1
+Brunei Darussalam,c20,0
+Brunei Darussalam,c21,0
+Brunei Darussalam,c22,0
+Brunei Darussalam,c23,0
+Brunei Darussalam,c24,1
+Brunei Darussalam,c25,1
+Brunei Darussalam,c26,0
+Brunei Darussalam,c27,1
+Brunei Darussalam,c28,0
+Brunei Darussalam,c29,0
+Brunei Darussalam,c3,0
+Brunei Darussalam,c30,0
+Brunei Darussalam,c31,1
+Brunei Darussalam,c32,1
+Brunei Darussalam,c33,0
+Brunei Darussalam,c34,0
+Brunei Darussalam,c35,0
+Brunei Darussalam,c4,0
+Brunei Darussalam,c5,0
+Brunei Darussalam,c6,0
+Brunei Darussalam,c7,0
+Brunei Darussalam,c8,1
+Brunei Darussalam,c9,0
+Cambodia,c1,1
+Cambodia,c10,1
+Cambodia,c11,0
+Cambodia,c12,1
+Cambodia,c13,0
+Cambodia,c14,0
+Cambodia,c15,0
+Cambodia,c16,0
+Cambodia,c17,1
+Cambodia,c18,1
+Cambodia,c19,0
+Cambodia,c2,0
+Cambodia,c20,1
+Cambodia,c21,0
+Cambodia,c22,1
+Cambodia,c23,1
+Cambodia,c24,0
+Cambodia,c25,0
+Cambodia,c26,0
+Cambodia,c27,1
+Cambodia,c28,0
+Cambodia,c29,0
+Cambodia,c3,1
+Cambodia,c30,0
+Cambodia,c31,0
+Cambodia,c32,0
+Cambodia,c33,0
+Cambodia,c34,0
+Cambodia,c35,0
+Cambodia,c4,1
+Cambodia,c5,0
+Cambodia,c6,1
+Cambodia,c7,1
+Cambodia,c8,0
+Cambodia,c9,0
+Canada,c1,0
+Canada,c10,0
+Canada,c11,0
+Canada,c12,0
+Canada,c13,0
+Canada,c14,0
+Canada,c15,0
+Canada,c16,0
+Canada,c17,0
+Canada,c18,1
+Canada,c19,1
+Canada,c2,1
+Canada,c20,0
+Canada,c21,1
+Canada,c22,0
+Canada,c23,1
+Canada,c24,0
+Canada,c25,1
+Canada,c26,0
+Canada,c27,1
+Canada,c28,1
+Canada,c29,1
+Canada,c3,0
+Canada,c30,0
+Canada,c31,1
+Canada,c32,1
+Canada,c33,1
+Canada,c34,0
+Canada,c35,0
+Canada,c4,0
+Canada,c5,0
+Canada,c6,1
+Canada,c7,0
+Canada,c8,1
+Canada,c9,0
+Colombia,c1,1
+Colombia,c10,0
+Colombia,c11,0
+Colombia,c12,0
+Colombia,c13,0
+Colombia,c14,0
+Colombia,c15,0
+Colombia,c16,0
+Colombia,c17,1
+Colombia,c18,0
+Colombia,c19,1
+Colombia,c2,1
+Colombia,c20,1
+Colombia,c21,0
+Colombia,c22,1
+Colombia,c23,1
+Colombia,c24,0
+Colombia,c25,1
+Colombia,c26,0
+Colombia,c27,0
+Colombia,c28,0
+Colombia,c29,0
+Colombia,c3,1
+Colombia,c30,0
+Colombia,c31,1
+Colombia,c32,1
+Colombia,c33,1
+Colombia,c34,1
+Colombia,c35,1
+Colombia,c4,0
+Colombia,c5,0
+Colombia,c6,0
+Colombia,c7,1
+Colombia,c8,1
+Colombia,c9,0
+Cyprus,c1,0
+Cyprus,c10,0
+Cyprus,c11,0
+Cyprus,c12,0
+Cyprus,c13,0
+Cyprus,c14,0
+Cyprus,c15,0
+Cyprus,c16,0
+Cyprus,c17,0
+Cyprus,c18,1
+Cyprus,c19,0
+Cyprus,c2,0
+Cyprus,c20,0
+Cyprus,c21,0
+Cyprus,c22,1
+Cyprus,c23,0
+Cyprus,c24,1
+Cyprus,c25,0
+Cyprus,c26,1
+Cyprus,c27,0
+Cyprus,c28,1
+Cyprus,c29,0
+Cyprus,c3,0
+Cyprus,c30,1
+Cyprus,c31,0
+Cyprus,c32,1
+Cyprus,c33,0
+Cyprus,c34,0
+Cyprus,c35,1
+Cyprus,c4,0
+Cyprus,c5,0
+Cyprus,c6,0
+Cyprus,c7,1
+Cyprus,c8,0
+Cyprus,c9,0
+Czech Republic,c1,0
+Czech Republic,c10,1
+Czech Republic,c11,1
+Czech Republic,c12,1
+Czech Republic,c13,1
+Czech Republic,c14,1
+Czech Republic,c15,1
+Czech Republic,c16,0
+Czech Republic,c17,1
+Czech Republic,c18,0
+Czech Republic,c19,1
+Czech Republic,c2,0
+Czech Republic,c20,0
+Czech Republic,c21,0
+Czech Republic,c22,0
+Czech Republic,c23,1
+Czech Republic,c24,0
+Czech Republic,c25,0
+Czech Republic,c26,1
+Czech Republic,c27,1
+Czech Republic,c28,0
+Czech Republic,c29,1
+Czech Republic,c3,0
+Czech Republic,c30,0
+Czech Republic,c31,0
+Czech Republic,c32,1
+Czech Republic,c33,0
+Czech Republic,c34,0
+Czech Republic,c35,0
+Czech Republic,c4,0
+Czech Republic,c5,0
+Czech Republic,c6,1
+Czech Republic,c7,0
+Czech Republic,c8,0
+Czech Republic,c9,0
+Denmark,c1,0
+Denmark,c10,0
+Denmark,c11,0
+Denmark,c12,0
+Denmark,c13,1
+Denmark,c14,0
+Denmark,c15,0
+Denmark,c16,1
+Denmark,c17,0
+Denmark,c18,0
+Denmark,c19,1
+Denmark,c2,0
+Denmark,c20,1
+Denmark,c21,0
+Denmark,c22,0
+Denmark,c23,0
+Denmark,c24,1
+Denmark,c25,0
+Denmark,c26,1
+Denmark,c27,0
+Denmark,c28,0
+Denmark,c29,1
+Denmark,c3,0
+Denmark,c30,1
+Denmark,c31,0
+Denmark,c32,1
+Denmark,c33,1
+Denmark,c34,1
+Denmark,c35,1
+Denmark,c4,0
+Denmark,c5,0
+Denmark,c6,0
+Denmark,c7,1
+Denmark,c8,0
+Denmark,c9,1
+Ecuador,c1,1
+Ecuador,c10,0
+Ecuador,c11,0
+Ecuador,c12,0
+Ecuador,c13,0
+Ecuador,c14,0
+Ecuador,c15,0
+Ecuador,c16,1
+Ecuador,c17,0
+Ecuador,c18,1
+Ecuador,c19,1
+Ecuador,c2,1
+Ecuador,c20,0
+Ecuador,c21,0
+Ecuador,c22,1
+Ecuador,c23,1
+Ecuador,c24,1
+Ecuador,c25,0
+Ecuador,c26,1
+Ecuador,c27,0
+Ecuador,c28,0
+Ecuador,c29,0
+Ecuador,c3,1
+Ecuador,c30,0
+Ecuador,c31,0
+Ecuador,c32,1
+Ecuador,c33,1
+Ecuador,c34,0
+Ecuador,c35,1
+Ecuador,c4,0
+Ecuador,c5,0
+Ecuador,c6,1
+Ecuador,c7,0
+Ecuador,c8,1
+Ecuador,c9,0
+Egypt,c1,1
+Egypt,c10,1
+Egypt,c11,1
+Egypt,c12,0
+Egypt,c13,0
+Egypt,c14,0
+Egypt,c15,0
+Egypt,c16,1
+Egypt,c17,0
+Egypt,c18,1
+Egypt,c19,1
+Egypt,c2,1
+Egypt,c20,0
+Egypt,c21,1
+Egypt,c22,1
+Egypt,c23,0
+Egypt,c24,1
+Egypt,c25,0
+Egypt,c26,0
+Egypt,c27,1
+Egypt,c28,0
+Egypt,c29,0
+Egypt,c3,1
+Egypt,c30,0
+Egypt,c31,0
+Egypt,c32,1
+Egypt,c33,0
+Egypt,c34,0
+Egypt,c35,0
+Egypt,c4,1
+Egypt,c5,0
+Egypt,c6,0
+Egypt,c7,0
+Egypt,c8,1
+Egypt,c9,0
+Estonia,c1,1
+Estonia,c10,0
+Estonia,c11,0
+Estonia,c12,0
+Estonia,c13,0
+Estonia,c14,0
+Estonia,c15,0
+Estonia,c16,1
+Estonia,c17,1
+Estonia,c18,0
+Estonia,c19,1
+Estonia,c2,0
+Estonia,c20,0
+Estonia,c21,0
+Estonia,c22,0
+Estonia,c23,1
+Estonia,c24,1
+Estonia,c25,1
+Estonia,c26,1
+Estonia,c27,0
+Estonia,c28,0
+Estonia,c29,1
+Estonia,c3,0
+Estonia,c30,1
+Estonia,c31,0
+Estonia,c32,1
+Estonia,c33,0
+Estonia,c34,1
+Estonia,c35,0
+Estonia,c4,0
+Estonia,c5,0
+Estonia,c6,1
+Estonia,c7,0
+Estonia,c8,0
+Estonia,c9,0
+Fiji,c1,1
+Fiji,c10,0
+Fiji,c11,0
+Fiji,c12,0
+Fiji,c13,0
+Fiji,c14,0
+Fiji,c15,0
+Fiji,c16,0
+Fiji,c17,0
+Fiji,c18,0
+Fiji,c19,1
+Fiji,c2,0
+Fiji,c20,0
+Fiji,c21,1
+Fiji,c22,1
+Fiji,c23,0
+Fiji,c24,1
+Fiji,c25,1
+Fiji,c26,1
+Fiji,c27,1
+Fiji,c28,1
+Fiji,c29,0
+Fiji,c3,1
+Fiji,c30,0
+Fiji,c31,1
+Fiji,c32,1
+Fiji,c33,0
+Fiji,c34,0
+Fiji,c35,0
+Fiji,c4,0
+Fiji,c5,0
+Fiji,c6,1
+Fiji,c7,0
+Fiji,c8,0
+Fiji,c9,0
+Finland,c1,0
+Finland,c10,0
+Finland,c11,0
+Finland,c12,1
+Finland,c13,1
+Finland,c14,1
+Finland,c15,0
+Finland,c16,0
+Finland,c17,0
+Finland,c18,0
+Finland,c19,1
+Finland,c2,0
+Finland,c20,0
+Finland,c21,0
+Finland,c22,0
+Finland,c23,0
+Finland,c24,1
+Finland,c25,1
+Finland,c26,1
+Finland,c27,0
+Finland,c28,0
+Finland,c29,1
+Finland,c3,0
+Finland,c30,1
+Finland,c31,0
+Finland,c32,1
+Finland,c33,1
+Finland,c34,1
+Finland,c35,0
+Finland,c4,0
+Finland,c5,0
+Finland,c6,1
+Finland,c7,1
+Finland,c8,0
+Finland,c9,0
+France,c1,0
+France,c10,0
+France,c11,0
+France,c12,0
+France,c13,1
+France,c14,0
+France,c15,1
+France,c16,0
+France,c17,1
+France,c18,0
+France,c19,1
+France,c2,0
+France,c20,1
+France,c21,1
+France,c22,1
+France,c23,0
+France,c24,1
+France,c25,0
+France,c26,1
+France,c27,0
+France,c28,0
+France,c29,1
+France,c3,0
+France,c30,1
+France,c31,0
+France,c32,1
+France,c33,1
+France,c34,1
+France,c35,0
+France,c4,0
+France,c5,0
+France,c6,0
+France,c7,1
+France,c8,0
+France,c9,0
+Georgia,c1,1
+Georgia,c10,0
+Georgia,c11,1
+Georgia,c12,0
+Georgia,c13,0
+Georgia,c14,0
+Georgia,c15,0
+Georgia,c16,0
+Georgia,c17,0
+Georgia,c18,1
+Georgia,c19,1
+Georgia,c2,0
+Georgia,c20,1
+Georgia,c21,1
+Georgia,c22,1
+Georgia,c23,1
+Georgia,c24,0
+Georgia,c25,1
+Georgia,c26,1
+Georgia,c27,1
+Georgia,c28,0
+Georgia,c29,1
+Georgia,c3,1
+Georgia,c30,0
+Georgia,c31,0
+Georgia,c32,1
+Georgia,c33,0
+Georgia,c34,1
+Georgia,c35,0
+Georgia,c4,0
+Georgia,c5,0
+Georgia,c6,0
+Georgia,c7,1
+Georgia,c8,0
+Georgia,c9,0
+Germany,c1,0
+Germany,c10,1
+Germany,c11,0
+Germany,c12,1
+Germany,c13,1
+Germany,c14,0
+Germany,c15,1
+Germany,c16,0
+Germany,c17,0
+Germany,c18,0
+Germany,c19,1
+Germany,c2,0
+Germany,c20,0
+Germany,c21,0
+Germany,c22,0
+Germany,c23,0
+Germany,c24,1
+Germany,c25,0
+Germany,c26,1
+Germany,c27,1
+Germany,c28,0
+Germany,c29,1
+Germany,c3,0
+Germany,c30,1
+Germany,c31,0
+Germany,c32,1
+Germany,c33,1
+Germany,c34,1
+Germany,c35,1
+Germany,c4,0
+Germany,c5,0
+Germany,c6,1
+Germany,c7,1
+Germany,c8,0
+Germany,c9,1
+Greece,c1,1
+Greece,c10,0
+Greece,c11,0
+Greece,c12,0
+Greece,c13,0
+Greece,c14,0
+Greece,c15,0
+Greece,c16,0
+Greece,c17,1
+Greece,c18,0
+Greece,c19,1
+Greece,c2,0
+Greece,c20,1
+Greece,c21,0
+Greece,c22,1
+Greece,c23,0
+Greece,c24,1
+Greece,c25,1
+Greece,c26,1
+Greece,c27,1
+Greece,c28,0
+Greece,c29,1
+Greece,c3,1
+Greece,c30,0
+Greece,c31,1
+Greece,c32,1
+Greece,c33,0
+Greece,c34,1
+Greece,c35,1
+Greece,c4,0
+Greece,c5,0
+Greece,c6,0
+Greece,c7,0
+Greece,c8,1
+Greece,c9,0
+"Hong Kong, China",c1,0
+"Hong Kong, China",c10,0
+"Hong Kong, China",c11,0
+"Hong Kong, China",c12,0
+"Hong Kong, China",c13,0
+"Hong Kong, China",c14,0
+"Hong Kong, China",c15,0
+"Hong Kong, China",c16,0
+"Hong Kong, China",c17,0
+"Hong Kong, China",c18,0
+"Hong Kong, China",c19,0
+"Hong Kong, China",c2,0
+"Hong Kong, China",c20,1
+"Hong Kong, China",c21,0
+"Hong Kong, China",c22,0
+"Hong Kong, China",c23,0
+"Hong Kong, China",c24,1
+"Hong Kong, China",c25,1
+"Hong Kong, China",c26,0
+"Hong Kong, China",c27,1
+"Hong Kong, China",c28,1
+"Hong Kong, China",c29,1
+"Hong Kong, China",c3,0
+"Hong Kong, China",c30,0
+"Hong Kong, China",c31,1
+"Hong Kong, China",c32,0
+"Hong Kong, China",c33,0
+"Hong Kong, China",c34,0
+"Hong Kong, China",c35,0
+"Hong Kong, China",c4,0
+"Hong Kong, China",c5,0
+"Hong Kong, China",c6,0
+"Hong Kong, China",c7,0
+"Hong Kong, China",c8,0
+"Hong Kong, China",c9,0
+Croatia,c1,1
+Croatia,c10,0
+Croatia,c11,1
+Croatia,c12,0
+Croatia,c13,0
+Croatia,c14,0
+Croatia,c15,0
+Croatia,c16,0
+Croatia,c17,1
+Croatia,c18,1
+Croatia,c19,1
+Croatia,c2,0
+Croatia,c20,1
+Croatia,c21,1
+Croatia,c22,1
+Croatia,c23,1
+Croatia,c24,1
+Croatia,c25,0
+Croatia,c26,1
+Croatia,c27,0
+Croatia,c28,0
+Croatia,c29,0
+Croatia,c3,1
+Croatia,c30,0
+Croatia,c31,0
+Croatia,c32,1
+Croatia,c33,1
+Croatia,c34,1
+Croatia,c35,0
+Croatia,c4,0
+Croatia,c5,0
+Croatia,c6,1
+Croatia,c7,1
+Croatia,c8,0
+Croatia,c9,0
+Hungary,c1,0
+Hungary,c10,1
+Hungary,c11,0
+Hungary,c12,0
+Hungary,c13,1
+Hungary,c14,1
+Hungary,c15,1
+Hungary,c16,0
+Hungary,c17,0
+Hungary,c18,0
+Hungary,c19,1
+Hungary,c2,0
+Hungary,c20,0
+Hungary,c21,1
+Hungary,c22,0
+Hungary,c23,1
+Hungary,c24,0
+Hungary,c25,1
+Hungary,c26,1
+Hungary,c27,0
+Hungary,c28,0
+Hungary,c29,1
+Hungary,c3,1
+Hungary,c30,0
+Hungary,c31,0
+Hungary,c32,1
+Hungary,c33,0
+Hungary,c34,1
+Hungary,c35,0
+Hungary,c4,0
+Hungary,c5,0
+Hungary,c6,0
+Hungary,c7,1
+Hungary,c8,0
+Hungary,c9,0
+India,c1,1
+India,c10,1
+India,c11,1
+India,c12,1
+India,c13,0
+India,c14,0
+India,c15,1
+India,c16,1
+India,c17,0
+India,c18,1
+India,c19,0
+India,c2,0
+India,c20,0
+India,c21,0
+India,c22,0
+India,c23,1
+India,c24,0
+India,c25,0
+India,c26,0
+India,c27,0
+India,c28,0
+India,c29,0
+India,c3,1
+India,c30,0
+India,c31,0
+India,c32,1
+India,c33,0
+India,c34,0
+India,c35,0
+India,c4,1
+India,c5,0
+India,c6,0
+India,c7,0
+India,c8,1
+India,c9,1
+Indonesia,c1,1
+Indonesia,c10,0
+Indonesia,c11,0
+Indonesia,c12,0
+Indonesia,c13,0
+Indonesia,c14,0
+Indonesia,c15,0
+Indonesia,c16,0
+Indonesia,c17,0
+Indonesia,c18,1
+Indonesia,c19,1
+Indonesia,c2,1
+Indonesia,c20,1
+Indonesia,c21,0
+Indonesia,c22,1
+Indonesia,c23,1
+Indonesia,c24,1
+Indonesia,c25,1
+Indonesia,c26,0
+Indonesia,c27,1
+Indonesia,c28,0
+Indonesia,c29,0
+Indonesia,c3,1
+Indonesia,c30,0
+Indonesia,c31,0
+Indonesia,c32,0
+Indonesia,c33,0
+Indonesia,c34,0
+Indonesia,c35,0
+Indonesia,c4,1
+Indonesia,c5,1
+Indonesia,c6,1
+Indonesia,c7,0
+Indonesia,c8,1
+Indonesia,c9,0
+Ireland,c1,0
+Ireland,c10,0
+Ireland,c11,0
+Ireland,c12,0
+Ireland,c13,0
+Ireland,c14,0
+Ireland,c15,0
+Ireland,c16,1
+Ireland,c17,0
+Ireland,c18,0
+Ireland,c19,0
+Ireland,c2,0
+Ireland,c20,0
+Ireland,c21,0
+Ireland,c22,0
+Ireland,c23,0
+Ireland,c24,0
+Ireland,c25,1
+Ireland,c26,0
+Ireland,c27,0
+Ireland,c28,1
+Ireland,c29,0
+Ireland,c3,0
+Ireland,c30,1
+Ireland,c31,0
+Ireland,c32,0
+Ireland,c33,0
+Ireland,c34,0
+Ireland,c35,0
+Ireland,c4,0
+Ireland,c5,0
+Ireland,c6,0
+Ireland,c7,1
+Ireland,c8,1
+Ireland,c9,1
+Italy,c1,0
+Italy,c10,1
+Italy,c11,0
+Italy,c12,1
+Italy,c13,1
+Italy,c14,0
+Italy,c15,0
+Italy,c16,1
+Italy,c17,0
+Italy,c18,0
+Italy,c19,1
+Italy,c2,0
+Italy,c20,1
+Italy,c21,1
+Italy,c22,1
+Italy,c23,1
+Italy,c24,0
+Italy,c25,0
+Italy,c26,1
+Italy,c27,0
+Italy,c28,0
+Italy,c29,1
+Italy,c3,1
+Italy,c30,1
+Italy,c31,0
+Italy,c32,0
+Italy,c33,1
+Italy,c34,1
+Italy,c35,1
+Italy,c4,1
+Italy,c5,1
+Italy,c6,1
+Italy,c7,1
+Italy,c8,0
+Italy,c9,0
+Japan,c1,0
+Japan,c10,1
+Japan,c11,0
+Japan,c12,1
+Japan,c13,1
+Japan,c14,1
+Japan,c15,1
+Japan,c16,0
+Japan,c17,1
+Japan,c18,0
+Japan,c19,1
+Japan,c2,0
+Japan,c20,1
+Japan,c21,1
+Japan,c22,1
+Japan,c23,1
+Japan,c24,0
+Japan,c25,0
+Japan,c26,0
+Japan,c27,1
+Japan,c28,0
+Japan,c29,1
+Japan,c3,0
+Japan,c30,0
+Japan,c31,0
+Japan,c32,0
+Japan,c33,1
+Japan,c34,1
+Japan,c35,1
+Japan,c4,0
+Japan,c5,0
+Japan,c6,0
+Japan,c7,1
+Japan,c8,0
+Japan,c9,0
+Kazakhstan,c1,1
+Kazakhstan,c10,0
+Kazakhstan,c11,0
+Kazakhstan,c12,1
+Kazakhstan,c13,0
+Kazakhstan,c14,0
+Kazakhstan,c15,0
+Kazakhstan,c16,0
+Kazakhstan,c17,0
+Kazakhstan,c18,0
+Kazakhstan,c19,1
+Kazakhstan,c2,1
+Kazakhstan,c20,1
+Kazakhstan,c21,1
+Kazakhstan,c22,0
+Kazakhstan,c23,1
+Kazakhstan,c24,0
+Kazakhstan,c25,0
+Kazakhstan,c26,1
+Kazakhstan,c27,0
+Kazakhstan,c28,0
+Kazakhstan,c29,1
+Kazakhstan,c3,0
+Kazakhstan,c30,0
+Kazakhstan,c31,0
+Kazakhstan,c32,1
+Kazakhstan,c33,0
+Kazakhstan,c34,1
+Kazakhstan,c35,1
+Kazakhstan,c4,0
+Kazakhstan,c5,0
+Kazakhstan,c6,0
+Kazakhstan,c7,0
+Kazakhstan,c8,0
+Kazakhstan,c9,0
+Kyrgyz Republic,c1,1
+Kyrgyz Republic,c10,0
+Kyrgyz Republic,c11,1
+Kyrgyz Republic,c12,1
+Kyrgyz Republic,c13,0
+Kyrgyz Republic,c14,0
+Kyrgyz Republic,c15,0
+Kyrgyz Republic,c16,0
+Kyrgyz Republic,c17,0
+Kyrgyz Republic,c18,1
+Kyrgyz Republic,c19,0
+Kyrgyz Republic,c2,1
+Kyrgyz Republic,c20,0
+Kyrgyz Republic,c21,1
+Kyrgyz Republic,c22,1
+Kyrgyz Republic,c23,1
+Kyrgyz Republic,c24,0
+Kyrgyz Republic,c25,1
+Kyrgyz Republic,c26,0
+Kyrgyz Republic,c27,1
+Kyrgyz Republic,c28,0
+Kyrgyz Republic,c29,0
+Kyrgyz Republic,c3,1
+Kyrgyz Republic,c30,0
+Kyrgyz Republic,c31,0
+Kyrgyz Republic,c32,1
+Kyrgyz Republic,c33,0
+Kyrgyz Republic,c34,0
+Kyrgyz Republic,c35,0
+Kyrgyz Republic,c4,0
+Kyrgyz Republic,c5,0
+Kyrgyz Republic,c6,0
+Kyrgyz Republic,c7,0
+Kyrgyz Republic,c8,0
+Kyrgyz Republic,c9,0
+South Korea,c1,0
+South Korea,c10,1
+South Korea,c11,0
+South Korea,c12,1
+South Korea,c13,1
+South Korea,c14,1
+South Korea,c15,1
+South Korea,c16,0
+South Korea,c17,1
+South Korea,c18,0
+South Korea,c19,0
+South Korea,c2,0
+South Korea,c20,0
+South Korea,c21,0
+South Korea,c22,1
+South Korea,c23,0
+South Korea,c24,1
+South Korea,c25,0
+South Korea,c26,0
+South Korea,c27,0
+South Korea,c28,0
+South Korea,c29,0
+South Korea,c3,0
+South Korea,c30,0
+South Korea,c31,0
+South Korea,c32,1
+South Korea,c33,0
+South Korea,c34,1
+South Korea,c35,0
+South Korea,c4,1
+South Korea,c5,0
+South Korea,c6,0
+South Korea,c7,1
+South Korea,c8,1
+South Korea,c9,1
+Kuwait,c1,0
+Kuwait,c10,0
+Kuwait,c11,0
+Kuwait,c12,0
+Kuwait,c13,0
+Kuwait,c14,0
+Kuwait,c15,0
+Kuwait,c16,0
+Kuwait,c17,0
+Kuwait,c18,0
+Kuwait,c19,0
+Kuwait,c2,1
+Kuwait,c20,0
+Kuwait,c21,0
+Kuwait,c22,0
+Kuwait,c23,0
+Kuwait,c24,0
+Kuwait,c25,0
+Kuwait,c26,1
+Kuwait,c27,1
+Kuwait,c28,0
+Kuwait,c29,0
+Kuwait,c3,0
+Kuwait,c30,0
+Kuwait,c31,1
+Kuwait,c32,1
+Kuwait,c33,0
+Kuwait,c34,0
+Kuwait,c35,1
+Kuwait,c4,0
+Kuwait,c5,0
+Kuwait,c6,0
+Kuwait,c7,0
+Kuwait,c8,1
+Kuwait,c9,1
+Laos,c1,1
+Laos,c10,0
+Laos,c11,1
+Laos,c12,0
+Laos,c13,0
+Laos,c14,0
+Laos,c15,0
+Laos,c16,1
+Laos,c17,1
+Laos,c18,1
+Laos,c19,1
+Laos,c2,0
+Laos,c20,0
+Laos,c21,1
+Laos,c22,0
+Laos,c23,0
+Laos,c24,0
+Laos,c25,0
+Laos,c26,0
+Laos,c27,0
+Laos,c28,0
+Laos,c29,0
+Laos,c3,1
+Laos,c30,0
+Laos,c31,1
+Laos,c32,0
+Laos,c33,0
+Laos,c34,0
+Laos,c35,0
+Laos,c4,1
+Laos,c5,1
+Laos,c6,1
+Laos,c7,1
+Laos,c8,0
+Laos,c9,0
+Lithuania,c1,0
+Lithuania,c10,1
+Lithuania,c11,0
+Lithuania,c12,0
+Lithuania,c13,0
+Lithuania,c14,0
+Lithuania,c15,0
+Lithuania,c16,1
+Lithuania,c17,0
+Lithuania,c18,0
+Lithuania,c19,1
+Lithuania,c2,0
+Lithuania,c20,1
+Lithuania,c21,1
+Lithuania,c22,0
+Lithuania,c23,1
+Lithuania,c24,0
+Lithuania,c25,0
+Lithuania,c26,1
+Lithuania,c27,0
+Lithuania,c28,0
+Lithuania,c29,0
+Lithuania,c3,1
+Lithuania,c30,1
+Lithuania,c31,0
+Lithuania,c32,1
+Lithuania,c33,0
+Lithuania,c34,0
+Lithuania,c35,0
+Lithuania,c4,0
+Lithuania,c5,0
+Lithuania,c6,1
+Lithuania,c7,1
+Lithuania,c8,1
+Lithuania,c9,0
+Luxembourg,c1,0
+Luxembourg,c10,1
+Luxembourg,c11,1
+Luxembourg,c12,0
+Luxembourg,c13,0
+Luxembourg,c14,0
+Luxembourg,c15,0
+Luxembourg,c16,0
+Luxembourg,c17,0
+Luxembourg,c18,0
+Luxembourg,c19,0
+Luxembourg,c2,0
+Luxembourg,c20,0
+Luxembourg,c21,0
+Luxembourg,c22,0
+Luxembourg,c23,0
+Luxembourg,c24,0
+Luxembourg,c25,0
+Luxembourg,c26,0
+Luxembourg,c27,0
+Luxembourg,c28,1
+Luxembourg,c29,0
+Luxembourg,c3,0
+Luxembourg,c30,1
+Luxembourg,c31,0
+Luxembourg,c32,0
+Luxembourg,c33,0
+Luxembourg,c34,0
+Luxembourg,c35,0
+Luxembourg,c4,0
+Luxembourg,c5,0
+Luxembourg,c6,0
+Luxembourg,c7,0
+Luxembourg,c8,0
+Luxembourg,c9,0
+Latvia,c1,1
+Latvia,c10,0
+Latvia,c11,0
+Latvia,c12,0
+Latvia,c13,0
+Latvia,c14,0
+Latvia,c15,0
+Latvia,c16,0
+Latvia,c17,1
+Latvia,c18,1
+Latvia,c19,1
+Latvia,c2,0
+Latvia,c20,1
+Latvia,c21,1
+Latvia,c22,0
+Latvia,c23,1
+Latvia,c24,0
+Latvia,c25,1
+Latvia,c26,1
+Latvia,c27,0
+Latvia,c28,0
+Latvia,c29,0
+Latvia,c3,1
+Latvia,c30,1
+Latvia,c31,0
+Latvia,c32,1
+Latvia,c33,0
+Latvia,c34,1
+Latvia,c35,0
+Latvia,c4,0
+Latvia,c5,0
+Latvia,c6,1
+Latvia,c7,0
+Latvia,c8,0
+Latvia,c9,0
+Malaysia,c1,1
+Malaysia,c10,1
+Malaysia,c11,0
+Malaysia,c12,0
+Malaysia,c13,0
+Malaysia,c14,1
+Malaysia,c15,0
+Malaysia,c16,0
+Malaysia,c17,0
+Malaysia,c18,0
+Malaysia,c19,1
+Malaysia,c2,1
+Malaysia,c20,1
+Malaysia,c21,1
+Malaysia,c22,1
+Malaysia,c23,0
+Malaysia,c24,1
+Malaysia,c25,0
+Malaysia,c26,1
+Malaysia,c27,1
+Malaysia,c28,0
+Malaysia,c29,0
+Malaysia,c3,1
+Malaysia,c30,0
+Malaysia,c31,0
+Malaysia,c32,0
+Malaysia,c33,0
+Malaysia,c34,0
+Malaysia,c35,0
+Malaysia,c4,0
+Malaysia,c5,0
+Malaysia,c6,1
+Malaysia,c7,1
+Malaysia,c8,1
+Malaysia,c9,1
+Mexico,c1,1
+Mexico,c10,1
+Mexico,c11,0
+Mexico,c12,0
+Mexico,c13,0
+Mexico,c14,1
+Mexico,c15,1
+Mexico,c16,1
+Mexico,c17,0
+Mexico,c18,1
+Mexico,c19,0
+Mexico,c2,1
+Mexico,c20,1
+Mexico,c21,1
+Mexico,c22,0
+Mexico,c23,1
+Mexico,c24,0
+Mexico,c25,1
+Mexico,c26,0
+Mexico,c27,0
+Mexico,c28,0
+Mexico,c29,0
+Mexico,c3,1
+Mexico,c30,0
+Mexico,c31,0
+Mexico,c32,1
+Mexico,c33,0
+Mexico,c34,0
+Mexico,c35,1
+Mexico,c4,0
+Mexico,c5,0
+Mexico,c6,0
+Mexico,c7,0
+Mexico,c8,0
+Mexico,c9,0
+Maldives,c1,0
+Maldives,c10,0
+Maldives,c11,0
+Maldives,c12,0
+Maldives,c13,0
+Maldives,c14,0
+Maldives,c15,0
+Maldives,c16,0
+Maldives,c17,1
+Maldives,c18,1
+Maldives,c19,1
+Maldives,c2,0
+Maldives,c20,1
+Maldives,c21,0
+Maldives,c22,1
+Maldives,c23,0
+Maldives,c24,1
+Maldives,c25,1
+Maldives,c26,1
+Maldives,c27,1
+Maldives,c28,0
+Maldives,c29,0
+Maldives,c3,0
+Maldives,c30,0
+Maldives,c31,1
+Maldives,c32,1
+Maldives,c33,0
+Maldives,c34,0
+Maldives,c35,0
+Maldives,c4,0
+Maldives,c5,0
+Maldives,c6,0
+Maldives,c7,0
+Maldives,c8,0
+Maldives,c9,0
+Malta,c1,0
+Malta,c10,0
+Malta,c11,0
+Malta,c12,0
+Malta,c13,0
+Malta,c14,0
+Malta,c15,0
+Malta,c16,0
+Malta,c17,0
+Malta,c18,0
+Malta,c19,0
+Malta,c2,0
+Malta,c20,0
+Malta,c21,0
+Malta,c22,1
+Malta,c23,0
+Malta,c24,1
+Malta,c25,1
+Malta,c26,1
+Malta,c27,0
+Malta,c28,1
+Malta,c29,0
+Malta,c3,0
+Malta,c30,1
+Malta,c31,0
+Malta,c32,1
+Malta,c33,0
+Malta,c34,1
+Malta,c35,0
+Malta,c4,0
+Malta,c5,0
+Malta,c6,0
+Malta,c7,1
+Malta,c8,0
+Malta,c9,0
+Mongolia,c1,1
+Mongolia,c10,0
+Mongolia,c11,0
+Mongolia,c12,0
+Mongolia,c13,0
+Mongolia,c14,0
+Mongolia,c15,0
+Mongolia,c16,0
+Mongolia,c17,1
+Mongolia,c18,0
+Mongolia,c19,1
+Mongolia,c2,1
+Mongolia,c20,0
+Mongolia,c21,0
+Mongolia,c22,0
+Mongolia,c23,1
+Mongolia,c24,0
+Mongolia,c25,1
+Mongolia,c26,1
+Mongolia,c27,0
+Mongolia,c28,0
+Mongolia,c29,0
+Mongolia,c3,1
+Mongolia,c30,0
+Mongolia,c31,0
+Mongolia,c32,1
+Mongolia,c33,0
+Mongolia,c34,0
+Mongolia,c35,0
+Mongolia,c4,0
+Mongolia,c5,0
+Mongolia,c6,0
+Mongolia,c7,0
+Mongolia,c8,0
+Mongolia,c9,0
+Nepal,c1,1
+Nepal,c10,0
+Nepal,c11,1
+Nepal,c12,0
+Nepal,c13,0
+Nepal,c14,0
+Nepal,c15,0
+Nepal,c16,0
+Nepal,c17,1
+Nepal,c18,1
+Nepal,c19,0
+Nepal,c2,0
+Nepal,c20,1
+Nepal,c21,0
+Nepal,c22,1
+Nepal,c23,1
+Nepal,c24,0
+Nepal,c25,0
+Nepal,c26,0
+Nepal,c27,1
+Nepal,c28,0
+Nepal,c29,1
+Nepal,c3,1
+Nepal,c30,0
+Nepal,c31,1
+Nepal,c32,1
+Nepal,c33,0
+Nepal,c34,0
+Nepal,c35,0
+Nepal,c4,0
+Nepal,c5,0
+Nepal,c6,0
+Nepal,c7,0
+Nepal,c8,0
+Nepal,c9,0
+Netherlands,c1,0
+Netherlands,c10,0
+Netherlands,c11,0
+Netherlands,c12,0
+Netherlands,c13,1
+Netherlands,c14,0
+Netherlands,c15,0
+Netherlands,c16,0
+Netherlands,c17,0
+Netherlands,c18,0
+Netherlands,c19,1
+Netherlands,c2,0
+Netherlands,c20,1
+Netherlands,c21,0
+Netherlands,c22,0
+Netherlands,c23,0
+Netherlands,c24,1
+Netherlands,c25,1
+Netherlands,c26,1
+Netherlands,c27,0
+Netherlands,c28,0
+Netherlands,c29,0
+Netherlands,c3,1
+Netherlands,c30,1
+Netherlands,c31,0
+Netherlands,c32,1
+Netherlands,c33,1
+Netherlands,c34,1
+Netherlands,c35,0
+Netherlands,c4,0
+Netherlands,c5,0
+Netherlands,c6,0
+Netherlands,c7,0
+Netherlands,c8,0
+Netherlands,c9,1
+Norway,c1,0
+Norway,c10,0
+Norway,c11,0
+Norway,c12,0
+Norway,c13,0
+Norway,c14,0
+Norway,c15,0
+Norway,c16,0
+Norway,c17,0
+Norway,c18,1
+Norway,c19,1
+Norway,c2,1
+Norway,c20,0
+Norway,c21,0
+Norway,c22,0
+Norway,c23,1
+Norway,c24,1
+Norway,c25,0
+Norway,c26,1
+Norway,c27,0
+Norway,c28,0
+Norway,c29,0
+Norway,c3,1
+Norway,c30,0
+Norway,c31,1
+Norway,c32,1
+Norway,c33,1
+Norway,c34,1
+Norway,c35,0
+Norway,c4,0
+Norway,c5,0
+Norway,c6,0
+Norway,c7,1
+Norway,c8,0
+Norway,c9,0
+New Zealand,c1,1
+New Zealand,c10,0
+New Zealand,c11,0
+New Zealand,c12,0
+New Zealand,c13,0
+New Zealand,c14,0
+New Zealand,c15,0
+New Zealand,c16,0
+New Zealand,c17,0
+New Zealand,c18,1
+New Zealand,c19,0
+New Zealand,c2,0
+New Zealand,c20,1
+New Zealand,c21,0
+New Zealand,c22,0
+New Zealand,c23,0
+New Zealand,c24,0
+New Zealand,c25,1
+New Zealand,c26,1
+New Zealand,c27,1
+New Zealand,c28,0
+New Zealand,c29,1
+New Zealand,c3,1
+New Zealand,c30,1
+New Zealand,c31,0
+New Zealand,c32,1
+New Zealand,c33,1
+New Zealand,c34,1
+New Zealand,c35,0
+New Zealand,c4,0
+New Zealand,c5,0
+New Zealand,c6,1
+New Zealand,c7,1
+New Zealand,c8,0
+New Zealand,c9,0
+Pakistan,c1,1
+Pakistan,c10,0
+Pakistan,c11,1
+Pakistan,c12,0
+Pakistan,c13,0
+Pakistan,c14,0
+Pakistan,c15,0
+Pakistan,c16,0
+Pakistan,c17,1
+Pakistan,c18,0
+Pakistan,c19,0
+Pakistan,c2,0
+Pakistan,c20,0
+Pakistan,c21,1
+Pakistan,c22,0
+Pakistan,c23,1
+Pakistan,c24,0
+Pakistan,c25,1
+Pakistan,c26,0
+Pakistan,c27,0
+Pakistan,c28,0
+Pakistan,c29,0
+Pakistan,c3,1
+Pakistan,c30,0
+Pakistan,c31,0
+Pakistan,c32,0
+Pakistan,c33,0
+Pakistan,c34,1
+Pakistan,c35,0
+Pakistan,c4,1
+Pakistan,c5,1
+Pakistan,c6,0
+Pakistan,c7,1
+Pakistan,c8,0
+Pakistan,c9,0
+Philippines,c1,1
+Philippines,c10,0
+Philippines,c11,0
+Philippines,c12,0
+Philippines,c13,0
+Philippines,c14,0
+Philippines,c15,0
+Philippines,c16,0
+Philippines,c17,0
+Philippines,c18,1
+Philippines,c19,0
+Philippines,c2,0
+Philippines,c20,0
+Philippines,c21,1
+Philippines,c22,1
+Philippines,c23,1
+Philippines,c24,0
+Philippines,c25,1
+Philippines,c26,0
+Philippines,c27,1
+Philippines,c28,1
+Philippines,c29,0
+Philippines,c3,1
+Philippines,c30,0
+Philippines,c31,0
+Philippines,c32,1
+Philippines,c33,0
+Philippines,c34,0
+Philippines,c35,0
+Philippines,c4,0
+Philippines,c5,0
+Philippines,c6,0
+Philippines,c7,0
+Philippines,c8,0
+Philippines,c9,0
+Poland,c1,0
+Poland,c10,1
+Poland,c11,1
+Poland,c12,1
+Poland,c13,0
+Poland,c14,0
+Poland,c15,0
+Poland,c16,1
+Poland,c17,0
+Poland,c18,1
+Poland,c19,1
+Poland,c2,0
+Poland,c20,1
+Poland,c21,1
+Poland,c22,0
+Poland,c23,1
+Poland,c24,0
+Poland,c25,0
+Poland,c26,1
+Poland,c27,1
+Poland,c28,0
+Poland,c29,0
+Poland,c3,1
+Poland,c30,0
+Poland,c31,0
+Poland,c32,1
+Poland,c33,0
+Poland,c34,0
+Poland,c35,0
+Poland,c4,0
+Poland,c5,0
+Poland,c6,1
+Poland,c7,1
+Poland,c8,1
+Poland,c9,0
+Portugal,c1,0
+Portugal,c10,1
+Portugal,c11,1
+Portugal,c12,0
+Portugal,c13,0
+Portugal,c14,0
+Portugal,c15,1
+Portugal,c16,0
+Portugal,c17,1
+Portugal,c18,0
+Portugal,c19,1
+Portugal,c2,0
+Portugal,c20,0
+Portugal,c21,1
+Portugal,c22,1
+Portugal,c23,0
+Portugal,c24,0
+Portugal,c25,1
+Portugal,c26,1
+Portugal,c27,0
+Portugal,c28,1
+Portugal,c29,1
+Portugal,c3,1
+Portugal,c30,0
+Portugal,c31,0
+Portugal,c32,1
+Portugal,c33,1
+Portugal,c34,1
+Portugal,c35,1
+Portugal,c4,1
+Portugal,c5,1
+Portugal,c6,1
+Portugal,c7,1
+Portugal,c8,1
+Portugal,c9,0
+China,c1,1
+China,c10,1
+China,c11,1
+China,c12,1
+China,c13,1
+China,c14,1
+China,c15,1
+China,c16,1
+China,c17,0
+China,c18,1
+China,c19,0
+China,c2,0
+China,c20,0
+China,c21,0
+China,c22,0
+China,c23,0
+China,c24,0
+China,c25,0
+China,c26,0
+China,c27,1
+China,c28,0
+China,c29,0
+China,c3,1
+China,c30,0
+China,c31,0
+China,c32,1
+China,c33,0
+China,c34,0
+China,c35,0
+China,c4,1
+China,c5,1
+China,c6,1
+China,c7,1
+China,c8,0
+China,c9,1
+Romania,c1,1
+Romania,c10,1
+Romania,c11,0
+Romania,c12,0
+Romania,c13,0
+Romania,c14,0
+Romania,c15,1
+Romania,c16,0
+Romania,c17,1
+Romania,c18,1
+Romania,c19,1
+Romania,c2,0
+Romania,c20,1
+Romania,c21,1
+Romania,c22,0
+Romania,c23,1
+Romania,c24,0
+Romania,c25,0
+Romania,c26,1
+Romania,c27,0
+Romania,c28,0
+Romania,c29,0
+Romania,c3,1
+Romania,c30,1
+Romania,c31,0
+Romania,c32,0
+Romania,c33,1
+Romania,c34,1
+Romania,c35,0
+Romania,c4,0
+Romania,c5,0
+Romania,c6,1
+Romania,c7,0
+Romania,c8,0
+Romania,c9,0
+Russia,c1,0
+Russia,c10,0
+Russia,c11,0
+Russia,c12,1
+Russia,c13,0
+Russia,c14,0
+Russia,c15,0
+Russia,c16,0
+Russia,c17,1
+Russia,c18,0
+Russia,c19,1
+Russia,c2,1
+Russia,c20,1
+Russia,c21,1
+Russia,c22,0
+Russia,c23,1
+Russia,c24,0
+Russia,c25,1
+Russia,c26,1
+Russia,c27,0
+Russia,c28,0
+Russia,c29,1
+Russia,c3,1
+Russia,c30,0
+Russia,c31,1
+Russia,c32,0
+Russia,c33,0
+Russia,c34,0
+Russia,c35,1
+Russia,c4,0
+Russia,c5,0
+Russia,c6,0
+Russia,c7,0
+Russia,c8,1
+Russia,c9,0
+Rest of the World,c1,1
+Rest of the World,c10,1
+Rest of the World,c11,1
+Rest of the World,c12,1
+Rest of the World,c13,0
+Rest of the World,c14,0
+Rest of the World,c15,0
+Rest of the World,c16,0
+Rest of the World,c17,1
+Rest of the World,c18,1
+Rest of the World,c19,0
+Rest of the World,c2,1
+Rest of the World,c20,0
+Rest of the World,c21,0
+Rest of the World,c22,0
+Rest of the World,c23,1
+Rest of the World,c24,1
+Rest of the World,c25,0
+Rest of the World,c26,0
+Rest of the World,c27,0
+Rest of the World,c28,0
+Rest of the World,c29,0
+Rest of the World,c3,0
+Rest of the World,c30,0
+Rest of the World,c31,0
+Rest of the World,c32,1
+Rest of the World,c33,0
+Rest of the World,c34,0
+Rest of the World,c35,0
+Rest of the World,c4,1
+Rest of the World,c5,1
+Rest of the World,c6,1
+Rest of the World,c7,0
+Rest of the World,c8,1
+Rest of the World,c9,1
+Saudi Arabia,c1,0
+Saudi Arabia,c10,0
+Saudi Arabia,c11,0
+Saudi Arabia,c12,0
+Saudi Arabia,c13,0
+Saudi Arabia,c14,0
+Saudi Arabia,c15,0
+Saudi Arabia,c16,0
+Saudi Arabia,c17,0
+Saudi Arabia,c18,1
+Saudi Arabia,c19,1
+Saudi Arabia,c2,1
+Saudi Arabia,c20,1
+Saudi Arabia,c21,1
+Saudi Arabia,c22,0
+Saudi Arabia,c23,0
+Saudi Arabia,c24,0
+Saudi Arabia,c25,0
+Saudi Arabia,c26,0
+Saudi Arabia,c27,1
+Saudi Arabia,c28,0
+Saudi Arabia,c29,0
+Saudi Arabia,c3,0
+Saudi Arabia,c30,0
+Saudi Arabia,c31,1
+Saudi Arabia,c32,1
+Saudi Arabia,c33,0
+Saudi Arabia,c34,0
+Saudi Arabia,c35,1
+Saudi Arabia,c4,0
+Saudi Arabia,c5,0
+Saudi Arabia,c6,0
+Saudi Arabia,c7,0
+Saudi Arabia,c8,1
+Saudi Arabia,c9,1
+Singapore,c1,0
+Singapore,c10,0
+Singapore,c11,0
+Singapore,c12,0
+Singapore,c13,0
+Singapore,c14,1
+Singapore,c15,0
+Singapore,c16,0
+Singapore,c17,0
+Singapore,c18,0
+Singapore,c19,0
+Singapore,c2,0
+Singapore,c20,1
+Singapore,c21,0
+Singapore,c22,0
+Singapore,c23,0
+Singapore,c24,1
+Singapore,c25,0
+Singapore,c26,1
+Singapore,c27,0
+Singapore,c28,1
+Singapore,c29,0
+Singapore,c3,0
+Singapore,c30,1
+Singapore,c31,0
+Singapore,c32,0
+Singapore,c33,0
+Singapore,c34,0
+Singapore,c35,1
+Singapore,c4,0
+Singapore,c5,0
+Singapore,c6,0
+Singapore,c7,0
+Singapore,c8,1
+Singapore,c9,0
+Spain,c1,0
+Spain,c10,0
+Spain,c11,0
+Spain,c12,0
+Spain,c13,0
+Spain,c14,0
+Spain,c15,0
+Spain,c16,0
+Spain,c17,0
+Spain,c18,0
+Spain,c19,1
+Spain,c2,0
+Spain,c20,1
+Spain,c21,1
+Spain,c22,1
+Spain,c23,1
+Spain,c24,0
+Spain,c25,1
+Spain,c26,1
+Spain,c27,0
+Spain,c28,0
+Spain,c29,1
+Spain,c3,1
+Spain,c30,0
+Spain,c31,0
+Spain,c32,1
+Spain,c33,1
+Spain,c34,1
+Spain,c35,1
+Spain,c4,0
+Spain,c5,0
+Spain,c6,0
+Spain,c7,1
+Spain,c8,1
+Spain,c9,0
+Sri Lanka,c1,1
+Sri Lanka,c10,0
+Sri Lanka,c11,1
+Sri Lanka,c12,0
+Sri Lanka,c13,0
+Sri Lanka,c14,0
+Sri Lanka,c15,0
+Sri Lanka,c16,1
+Sri Lanka,c17,0
+Sri Lanka,c18,0
+Sri Lanka,c19,0
+Sri Lanka,c2,0
+Sri Lanka,c20,1
+Sri Lanka,c21,1
+Sri Lanka,c22,0
+Sri Lanka,c23,1
+Sri Lanka,c24,0
+Sri Lanka,c25,1
+Sri Lanka,c26,0
+Sri Lanka,c27,0
+Sri Lanka,c28,1
+Sri Lanka,c29,0
+Sri Lanka,c3,1
+Sri Lanka,c30,0
+Sri Lanka,c31,0
+Sri Lanka,c32,0
+Sri Lanka,c33,0
+Sri Lanka,c34,1
+Sri Lanka,c35,0
+Sri Lanka,c4,1
+Sri Lanka,c5,0
+Sri Lanka,c6,0
+Sri Lanka,c7,0
+Sri Lanka,c8,0
+Sri Lanka,c9,0
+Slovak Republic,c1,0
+Slovak Republic,c10,1
+Slovak Republic,c11,0
+Slovak Republic,c12,1
+Slovak Republic,c13,1
+Slovak Republic,c14,0
+Slovak Republic,c15,1
+Slovak Republic,c16,0
+Slovak Republic,c17,1
+Slovak Republic,c18,1
+Slovak Republic,c19,1
+Slovak Republic,c2,0
+Slovak Republic,c20,0
+Slovak Republic,c21,1
+Slovak Republic,c22,0
+Slovak Republic,c23,1
+Slovak Republic,c24,0
+Slovak Republic,c25,0
+Slovak Republic,c26,1
+Slovak Republic,c27,0
+Slovak Republic,c28,0
+Slovak Republic,c29,1
+Slovak Republic,c3,0
+Slovak Republic,c30,1
+Slovak Republic,c31,0
+Slovak Republic,c32,0
+Slovak Republic,c33,0
+Slovak Republic,c34,1
+Slovak Republic,c35,0
+Slovak Republic,c4,0
+Slovak Republic,c5,0
+Slovak Republic,c6,1
+Slovak Republic,c7,1
+Slovak Republic,c8,1
+Slovak Republic,c9,0
+Slovenia,c1,0
+Slovenia,c10,1
+Slovenia,c11,0
+Slovenia,c12,1
+Slovenia,c13,1
+Slovenia,c14,1
+Slovenia,c15,0
+Slovenia,c16,1
+Slovenia,c17,0
+Slovenia,c18,1
+Slovenia,c19,1
+Slovenia,c2,0
+Slovenia,c20,0
+Slovenia,c21,1
+Slovenia,c22,0
+Slovenia,c23,1
+Slovenia,c24,0
+Slovenia,c25,0
+Slovenia,c26,1
+Slovenia,c27,0
+Slovenia,c28,0
+Slovenia,c29,0
+Slovenia,c3,0
+Slovenia,c30,1
+Slovenia,c31,0
+Slovenia,c32,1
+Slovenia,c33,0
+Slovenia,c34,1
+Slovenia,c35,0
+Slovenia,c4,0
+Slovenia,c5,0
+Slovenia,c6,1
+Slovenia,c7,1
+Slovenia,c8,0
+Slovenia,c9,1
+Sweden,c1,0
+Sweden,c10,0
+Sweden,c11,0
+Sweden,c12,0
+Sweden,c13,1
+Sweden,c14,0
+Sweden,c15,1
+Sweden,c16,0
+Sweden,c17,0
+Sweden,c18,0
+Sweden,c19,1
+Sweden,c2,0
+Sweden,c20,1
+Sweden,c21,0
+Sweden,c22,0
+Sweden,c23,0
+Sweden,c24,0
+Sweden,c25,0
+Sweden,c26,1
+Sweden,c27,0
+Sweden,c28,0
+Sweden,c29,1
+Sweden,c3,0
+Sweden,c30,1
+Sweden,c31,0
+Sweden,c32,1
+Sweden,c33,1
+Sweden,c34,1
+Sweden,c35,0
+Sweden,c4,0
+Sweden,c5,0
+Sweden,c6,1
+Sweden,c7,1
+Sweden,c8,1
+Sweden,c9,1
+Switzerland,c1,0
+Switzerland,c10,0
+Switzerland,c11,0
+Switzerland,c12,0
+Switzerland,c13,0
+Switzerland,c14,1
+Switzerland,c15,0
+Switzerland,c16,0
+Switzerland,c17,1
+Switzerland,c18,0
+Switzerland,c19,0
+Switzerland,c2,0
+Switzerland,c20,1
+Switzerland,c21,0
+Switzerland,c22,0
+Switzerland,c23,0
+Switzerland,c24,0
+Switzerland,c25,0
+Switzerland,c26,1
+Switzerland,c27,0
+Switzerland,c28,1
+Switzerland,c29,0
+Switzerland,c3,0
+Switzerland,c30,1
+Switzerland,c31,1
+Switzerland,c32,0
+Switzerland,c33,1
+Switzerland,c34,1
+Switzerland,c35,1
+Switzerland,c4,0
+Switzerland,c5,0
+Switzerland,c6,1
+Switzerland,c7,0
+Switzerland,c8,0
+Switzerland,c9,1
+Tajikistan,c1,1
+Tajikistan,c10,0
+Tajikistan,c11,1
+Tajikistan,c12,1
+Tajikistan,c13,0
+Tajikistan,c14,0
+Tajikistan,c15,0
+Tajikistan,c16,0
+Tajikistan,c17,0
+Tajikistan,c18,1
+Tajikistan,c19,0
+Tajikistan,c2,1
+Tajikistan,c20,0
+Tajikistan,c21,1
+Tajikistan,c22,1
+Tajikistan,c23,1
+Tajikistan,c24,0
+Tajikistan,c25,1
+Tajikistan,c26,0
+Tajikistan,c27,1
+Tajikistan,c28,0
+Tajikistan,c29,0
+Tajikistan,c3,1
+Tajikistan,c30,0
+Tajikistan,c31,0
+Tajikistan,c32,1
+Tajikistan,c33,0
+Tajikistan,c34,0
+Tajikistan,c35,1
+Tajikistan,c4,1
+Tajikistan,c5,0
+Tajikistan,c6,0
+Tajikistan,c7,0
+Tajikistan,c8,0
+Tajikistan,c9,0
+"Taipei, China",c1,0
+"Taipei, China",c10,1
+"Taipei, China",c11,0
+"Taipei, China",c12,1
+"Taipei, China",c13,1
+"Taipei, China",c14,1
+"Taipei, China",c15,0
+"Taipei, China",c16,0
+"Taipei, China",c17,0
+"Taipei, China",c18,0
+"Taipei, China",c19,0
+"Taipei, China",c2,0
+"Taipei, China",c20,1
+"Taipei, China",c21,1
+"Taipei, China",c22,1
+"Taipei, China",c23,0
+"Taipei, China",c24,1
+"Taipei, China",c25,1
+"Taipei, China",c26,0
+"Taipei, China",c27,0
+"Taipei, China",c28,0
+"Taipei, China",c29,0
+"Taipei, China",c3,0
+"Taipei, China",c30,0
+"Taipei, China",c31,0
+"Taipei, China",c32,0
+"Taipei, China",c33,0
+"Taipei, China",c34,0
+"Taipei, China",c35,1
+"Taipei, China",c4,0
+"Taipei, China",c5,0
+"Taipei, China",c6,0
+"Taipei, China",c7,0
+"Taipei, China",c8,1
+"Taipei, China",c9,1
+Thailand,c1,1
+Thailand,c10,1
+Thailand,c11,1
+Thailand,c12,1
+Thailand,c13,0
+Thailand,c14,0
+Thailand,c15,1
+Thailand,c16,1
+Thailand,c17,1
+Thailand,c18,0
+Thailand,c19,0
+Thailand,c2,0
+Thailand,c20,1
+Thailand,c21,1
+Thailand,c22,1
+Thailand,c23,0
+Thailand,c24,0
+Thailand,c25,0
+Thailand,c26,0
+Thailand,c27,0
+Thailand,c28,0
+Thailand,c29,0
+Thailand,c3,1
+Thailand,c30,0
+Thailand,c31,0
+Thailand,c32,1
+Thailand,c33,0
+Thailand,c34,0
+Thailand,c35,0
+Thailand,c4,0
+Thailand,c5,1
+Thailand,c6,0
+Thailand,c7,0
+Thailand,c8,1
+Thailand,c9,0
+Turkiye,c1,1
+Turkiye,c10,1
+Turkiye,c11,1
+Turkiye,c12,1
+Turkiye,c13,1
+Turkiye,c14,0
+Turkiye,c15,1
+Turkiye,c16,1
+Turkiye,c17,1
+Turkiye,c18,1
+Turkiye,c19,1
+Turkiye,c2,0
+Turkiye,c20,0
+Turkiye,c21,1
+Turkiye,c22,1
+Turkiye,c23,1
+Turkiye,c24,1
+Turkiye,c25,1
+Turkiye,c26,1
+Turkiye,c27,0
+Turkiye,c28,0
+Turkiye,c29,0
+Turkiye,c3,1
+Turkiye,c30,0
+Turkiye,c31,0
+Turkiye,c32,1
+Turkiye,c33,0
+Turkiye,c34,0
+Turkiye,c35,0
+Turkiye,c4,1
+Turkiye,c5,0
+Turkiye,c6,0
+Turkiye,c7,1
+Turkiye,c8,0
+Turkiye,c9,0
+United Arab Emirates,c1,0
+United Arab Emirates,c10,0
+United Arab Emirates,c11,1
+United Arab Emirates,c12,1
+United Arab Emirates,c13,0
+United Arab Emirates,c14,0
+United Arab Emirates,c15,0
+United Arab Emirates,c16,0
+United Arab Emirates,c17,1
+United Arab Emirates,c18,1
+United Arab Emirates,c19,1
+United Arab Emirates,c2,1
+United Arab Emirates,c20,0
+United Arab Emirates,c21,1
+United Arab Emirates,c22,1
+United Arab Emirates,c23,0
+United Arab Emirates,c24,0
+United Arab Emirates,c25,1
+United Arab Emirates,c26,0
+United Arab Emirates,c27,0
+United Arab Emirates,c28,1
+United Arab Emirates,c29,0
+United Arab Emirates,c3,0
+United Arab Emirates,c30,0
+United Arab Emirates,c31,0
+United Arab Emirates,c32,0
+United Arab Emirates,c33,0
+United Arab Emirates,c34,0
+United Arab Emirates,c35,1
+United Arab Emirates,c4,0
+United Arab Emirates,c5,0
+United Arab Emirates,c6,0
+United Arab Emirates,c7,0
+United Arab Emirates,c8,1
+United Arab Emirates,c9,0
+United Kingdom,c1,0
+United Kingdom,c10,0
+United Kingdom,c11,0
+United Kingdom,c12,0
+United Kingdom,c13,0
+United Kingdom,c14,0
+United Kingdom,c15,0
+United Kingdom,c16,0
+United Kingdom,c17,1
+United Kingdom,c18,1
+United Kingdom,c19,1
+United Kingdom,c2,0
+United Kingdom,c20,0
+United Kingdom,c21,1
+United Kingdom,c22,1
+United Kingdom,c23,0
+United Kingdom,c24,0
+United Kingdom,c25,0
+United Kingdom,c26,1
+United Kingdom,c27,1
+United Kingdom,c28,1
+United Kingdom,c29,1
+United Kingdom,c3,0
+United Kingdom,c30,1
+United Kingdom,c31,0
+United Kingdom,c32,1
+United Kingdom,c33,1
+United Kingdom,c34,1
+United Kingdom,c35,0
+United Kingdom,c4,0
+United Kingdom,c5,0
+United Kingdom,c6,0
+United Kingdom,c7,0
+United Kingdom,c8,0
+United Kingdom,c9,0
+United States,c1,0
+United States,c10,0
+United States,c11,0
+United States,c12,0
+United States,c13,0
+United States,c14,0
+United States,c15,0
+United States,c16,0
+United States,c17,0
+United States,c18,0
+United States,c19,1
+United States,c2,0
+United States,c20,1
+United States,c21,1
+United States,c22,1
+United States,c23,0
+United States,c24,0
+United States,c25,1
+United States,c26,0
+United States,c27,0
+United States,c28,1
+United States,c29,1
+United States,c3,0
+United States,c30,1
+United States,c31,1
+United States,c32,0
+United States,c33,1
+United States,c34,1
+United States,c35,0
+United States,c4,0
+United States,c5,0
+United States,c6,0
+United States,c7,0
+United States,c8,0
+United States,c9,0
+Uzbekistan,c1,1
+Uzbekistan,c10,0
+Uzbekistan,c11,1
+Uzbekistan,c12,1
+Uzbekistan,c13,0
+Uzbekistan,c14,0
+Uzbekistan,c15,1
+Uzbekistan,c16,0
+Uzbekistan,c17,0
+Uzbekistan,c18,1
+Uzbekistan,c19,0
+Uzbekistan,c2,0
+Uzbekistan,c20,0
+Uzbekistan,c21,1
+Uzbekistan,c22,1
+Uzbekistan,c23,1
+Uzbekistan,c24,0
+Uzbekistan,c25,1
+Uzbekistan,c26,0
+Uzbekistan,c27,0
+Uzbekistan,c28,0
+Uzbekistan,c29,0
+Uzbekistan,c3,1
+Uzbekistan,c30,0
+Uzbekistan,c31,0
+Uzbekistan,c32,1
+Uzbekistan,c33,0
+Uzbekistan,c34,0
+Uzbekistan,c35,0
+Uzbekistan,c4,1
+Uzbekistan,c5,0
+Uzbekistan,c6,0
+Uzbekistan,c7,0
+Uzbekistan,c8,0
+Uzbekistan,c9,0
+Viet Nam,c1,1
+Viet Nam,c10,1
+Viet Nam,c11,1
+Viet Nam,c12,1
+Viet Nam,c13,0
+Viet Nam,c14,1
+Viet Nam,c15,0
+Viet Nam,c16,1
+Viet Nam,c17,0
+Viet Nam,c18,1
+Viet Nam,c19,0
+Viet Nam,c2,0
+Viet Nam,c20,0
+Viet Nam,c21,0
+Viet Nam,c22,0
+Viet Nam,c23,0
+Viet Nam,c24,0
+Viet Nam,c25,0
+Viet Nam,c26,1
+Viet Nam,c27,1
+Viet Nam,c28,0
+Viet Nam,c29,0
+Viet Nam,c3,1
+Viet Nam,c30,0
+Viet Nam,c31,0
+Viet Nam,c32,0
+Viet Nam,c33,0
+Viet Nam,c34,0
+Viet Nam,c35,0
+Viet Nam,c4,1
+Viet Nam,c5,1
+Viet Nam,c6,1
+Viet Nam,c7,1
+Viet Nam,c8,0
+Viet Nam,c9,0
